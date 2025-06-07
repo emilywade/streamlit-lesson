@@ -36,13 +36,13 @@ st.write("---")
 ################################################################################
 ### Display data ###
 ################################################################################
-###### We will generate some data
+# ##### We will generate some data
 
 # my_list = [10,50,409] # Python list
 # my_dict = {'Number':[1,2,3], 'Color': ['Blue', 'Yellow', 'Green']} # python dictionary
 
-##### We will use pandas and numpy to generate a DataFrame. 
-##### For now, think of a DataFrame as a table with columns, rows and data.
+# #### We will use pandas and numpy to generate a DataFrame. 
+# #### For now, think of a DataFrame as a table with columns, rows and data.
 # import numpy as np
 # import pandas as pd 
 # np.random.seed(1)
